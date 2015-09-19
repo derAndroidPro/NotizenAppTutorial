@@ -4,4 +4,5 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_notizen_ansehen_">Notizen ansehen</string>
+    <string name="title_activity_edit__notes_">Edit Notes Activity</string>
 </resources>

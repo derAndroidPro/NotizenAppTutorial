@@ -2,8 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="de.derandroidpro.notizenapptutorial" >
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -22,6 +21,10 @@
         <activity
             android:name=".Notizen_ansehen_Activity"
             android:label="@string/title_activity_notizen_ansehen_" >
+        </activity>
+        <activity
+            android:name=".Edit_Notes_Activity"
+            android:label="@string/title_activity_edit__notes_" >
         </activity>
     </application>
 
